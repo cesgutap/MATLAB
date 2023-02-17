@@ -1,1 +1,2 @@
-# Robotics Vision and Control book examples and exercises made by myself
+# RVC book
+Robotics Vision and Control book examples and exercises made by myself
